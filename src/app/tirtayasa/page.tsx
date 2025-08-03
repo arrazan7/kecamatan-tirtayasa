@@ -20,8 +20,8 @@ export default function Home() {
             <div className="relative h-screen">
                 <Image
                     className="absolute z-0 object-cover w-full h-full brightness-60"
-                    src="/makam-sultan-ageng-tirtayasa.webp"
-                    alt="Makam Sultan Ageng Tirtayasa"
+                    src="/gapura-makam-sultan-ageng-tirtayasa.webp"
+                    alt="Gapura Makam Sultan Ageng Tirtayasa"
                     width={4160}
                     height={2080}
                 />
